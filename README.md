@@ -29,4 +29,4 @@ Some of the technologies and tools that I work with:
 
 ____
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ZaqueuLima3&theme=dark&show_icons=true&count_private=true)](https://github.com/danielroccha)
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielroccha&theme=dark&show_icons=true&count_private=true)](https://github.com/danielroccha)
