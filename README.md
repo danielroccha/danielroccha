@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there!
 
-My name is Daniel Rocha I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2016 and currently I'm iOS developer at [Hotmart](https://www.hotmart.com/en).
+My name is Daniel Rocha I'm from Brazil (🇧🇷). I've been working as Mobile Developer since 2016 and currently I'm iOS developer at [Hotmart](https://www.hotmart.com/en).
 
 ### You can find me on
 
